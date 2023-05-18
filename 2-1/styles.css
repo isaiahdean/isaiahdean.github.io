@@ -1,3 +1,36 @@
 
+body{
+   color:#302e7b;
+   background-color: #07f2fa;
+}
 a{
-   color:rbg(50,205,50); }
+   color:#32cd32;    
+   background-color: #07f2fa;
+}
+h1{
+   text-align: center;
+   color:black;   
+   background-color: #07f2fa;
+}
+h2{
+
+   color:black;   
+   background-color: #07f2fa;
+
+}
+h3{
+
+   color:black;   
+   background-color: #07f2fa;
+
+}
+h4{
+
+   color:black;   
+   background-color: #07f2fa;
+
+}
+p{
+   color:#6a9c65;
+   background-color: #07f2fa;
+}
